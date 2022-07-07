@@ -19,8 +19,8 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+17602238930']
-global.premium = ['+17602238930']
+global.owner = ['+918416093655']
+global.premium = ['+918416093656']
 global.ownernomer = '+17602238930'
 global.ownername = 'HBMods'
 global.botname = 'HBMods'
