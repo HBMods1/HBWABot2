@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+918416093655']
+global.owner = ['+918416093656']
 global.premium = ['+918416093656']
-global.ownernomer = '+17602238930'
-global.ownername = 'HBMods'
-global.botname = 'HBMods'
-global.footer = 'HBMods'
+global.ownernomer = '+918416093656'
+global.ownername = 'Herbert Suntak'
+global.botname = 'HBWABot'
+global.footer = '©Herbert-inc.'
 global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://herbert70.blogspot.com/2022/04/download-gbwhatsapp-last-version-update.html '
-global.myweb = 'https://youtube.com/c/HBSuantakOfficialChannel'
-global.packname = 'HBMods'
-global.author = 'HBMods'
+global.region = 'India, Northeast India, Mizoram, Aizawl'
+global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
+global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
+global.packname = 'Gojo-Satoru'
+global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
-global.prefa = ['','!','.','😍','✊','👍']
+global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
